@@ -4,8 +4,7 @@ This provides a fast and easy way to process and extract information from XML se
 
 # Introduction
 
-I was presented with a problem where an internal team at my project required some sort of arrangement to get structured information from server responses.
-The XML response was very challenging to process manually and required more effort hours.
+Working with XML responses can be very challenging sometimes especially if the data is not structured properly. This solution works for specific data that I was using. You can use this approach to read data from XMLs in a directory and create results in CSV format. The tabular output makes sense and is more readable.
 
 # Requirements
 
