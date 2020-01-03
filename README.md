@@ -1,6 +1,6 @@
 # XML_feature_extraction
 
-This provides a fast and easy way to process and extract information from XML server responses
+This provides a fast and easy way to process and extract information from XML server responses. The data collected in this section can be used as a starting point for predicting that customers stay with the company for insurance. We can also predict the most likely addons that a new customer would take.
 
 # Introduction
 
